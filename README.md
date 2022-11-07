@@ -4,7 +4,7 @@ This project is the website of a friends ice cream business. The front end is bu
 
 ## Screenshot
 
-![alt text](./readme_images/website.png "Title")
+![Screen Shot](./readme_images/website.png "Title")
 
 ## Project Example
 
@@ -22,7 +22,7 @@ This project is the website of a friends ice cream business. The front end is bu
   
 ## Infrastructure
 
-![infrastrucure](./readme_images/infrastructure.png)
+![infrastrucure](./readme_images/infrastructure.png "Infrastructure")
 
 ## Downloading and usage
 
