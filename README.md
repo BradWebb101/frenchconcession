@@ -35,7 +35,7 @@ https://nodejs.org/en/
 To use this repo you need to clone it with git, into your source folder. 
 
 ``` git
-git clone https://github.com/BradWebb101/frenchconcession_website.git .
+git clone https://github.com/BradWebb101/frenchconcession.git .
 ```
 
 Once you have cloned the files into your source folder, use NPM to install the modules
