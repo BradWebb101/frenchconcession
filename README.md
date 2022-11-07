@@ -8,7 +8,7 @@ This project is the website of a friends ice cream business. The front end is bu
 
 ## Project Example
 
-[Website](https://french-concession.com.au)
+[Website](http://french-concession.com.au)
 
 ## How is it built
 
